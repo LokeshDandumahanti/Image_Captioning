@@ -31,3 +31,27 @@ Working on this project was a rich learning experience. I gained a deeper unders
 
  ### Project Report
 [Image Captioning (D8).pdf](https://github.com/user-attachments/files/16756380/Image.Captioning.D8.pdf)
+
+### Results of the Model
+![Caption7](https://github.com/user-attachments/assets/76f9e060-82a1-4e22-92c5-1eb9e298de65)
+
+![Caption2](https://github.com/user-attachments/assets/4aedcb27-7f29-4dca-9587-0d4fd7d8ace9)
+
+### Architecture of the Model
+
+![IC_architecture](https://github.com/user-attachments/assets/d9eba9f6-caa6-40e9-a00c-440617619701)
+
+### How Transformer works in the model
+
+![attention](https://github.com/user-attachments/assets/126c3bc6-a975-4217-ba35-645fc375120b)
+
+### How CNN is working in the model
+
+![CNN image](https://github.com/user-attachments/assets/c98fc9f2-1f17-4851-b1ca-a6f1b4a0b122)
+
+### How LSTM is working in the model
+
+![LSTM](https://github.com/user-attachments/assets/ae231ec1-4b19-4813-9c15-41a18f06b549)
+
+
+
