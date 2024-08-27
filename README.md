@@ -5,9 +5,9 @@
 I'm thrilled to announce the completion of a cutting-edge project on Image Captioning using Neural Networks during my internship at tinisoft . This project has been an incredible journey, diving deep into the realms of Computer Vision and Natural Language Processing (NLP), leveraging state-of-the-art technologies and methodologies.
 
 
-Colab Link : https://lnkd.in/gQWCZvQA
+### Colab Link : https://lnkd.in/gQWCZvQA
 
-LinkedIn Post : https://tinyurl.com/fda265vp
+### LinkedIn Post : https://tinyurl.com/fda265vp
 
 ### 🔍 Project Overview
 The model was designed to generate descriptive captions for images, combining the strengths of Convolutional Neural Networks (CNNs) for image feature extraction and Long Short-Term Memory (LSTM) networks for sequence prediction. We employed the Flickr8K dataset, a rich source of images and captions, to train our model, allowing it to learn from diverse scenarios and objects.
